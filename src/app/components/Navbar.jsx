@@ -9,11 +9,11 @@ export default function Navbar() {
     <Link href={'/'}>Home</Link>
     </li>
     <li>
-    <Link href={'/about'}>About</Link>
+    <Link href={'/about'}>About us</Link>
   
     </li>
     <li>
-        <Link href={'/contact'}>Contact</Link>
+        <Link href={'/contact'}>Contact us</Link>
         </li>
 
     </ul>
